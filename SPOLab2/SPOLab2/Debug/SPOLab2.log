@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  SPOLab2.cpp
+c:\users\1\source\repos\spolab2\spolab2\spolab2.cpp(30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SPOLab2.vcxproj -> C:\Users\1\source\repos\SPOLab2\Debug\SPOLab2.exe
